@@ -1,0 +1,17 @@
+{
+  "name": "AmethystAbyss",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.230",
+
+  "files": [
+    {
+      "path": "mods/abysstp-0.0.2.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abysstp-0.0.2.jar",
+      "sha1": "A1B2C3D4E5",
+      "size": 12345678,
+      "type": "mod"
+    }
+  ]
+}
