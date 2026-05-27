@@ -1,9 +1,10 @@
 {
   "name": "AmethystAbyss",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
+  "launchVersion": "neoforge-21.1.230",
   "files": [
     {
       "path": "mods/abcontrato-1.1.3.jar",
