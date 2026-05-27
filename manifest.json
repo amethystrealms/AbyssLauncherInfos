@@ -5902,39 +5902,34 @@
       "sha1": "43b84c4bb8d01cf90a29dfeec1c958a4b64baf46"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-extra.jar",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-extra.jar",
-      "sha1": "c311b5a5b621256df30f118797bfbf8dfc5e1ab1"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar",
+      "sha1": "db5c59932751d66c2f57c1c2de41b48712620975"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-extra.jar.cache",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-extra.jar.cache",
-      "sha1": "412ea9ee6cb82c69aaaa164844f210eab1f39951"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar.cache",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar.cache",
+      "sha1": "8198c7d8b601f0ff562ba94d313f8d9d2014ddca"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-mappings.txt",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-mappings.txt",
-      "sha1": "03f8985492bda0afc0898465341eb0acef35f570"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-mappings.txt",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-mappings.txt",
+      "sha1": "2244b6f072256667bcd9a73df124d6c58de77992"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-slim.jar",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-slim.jar",
-      "sha1": "8d3d0220ef15f89322432173d119bb20f470e4db"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar",
+      "sha1": "b4fb33003ee0975bc4511ff09d5d4a268b33fc2b"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-slim.jar.cache",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-slim.jar.cache",
-      "sha1": "0a2bf8c9ee2702bae1d1ce3af51429f4b26fd683"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar.cache",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar.cache",
+      "sha1": "c137e1f836d8023803505b6277e1978f5dc2d437"
     },
     {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar",
-      "sha1": "59b40e9fb0353365301e2760ee5976f704d99cf7"
-    },
-    {
-      "path": "libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-unpacked.jar",
-      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-unpacked.jar",
-      "sha1": "a8ae1f986e20cc91442b6b2b64d62bcd065618d7"
+      "path": "libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar",
+      "url": "https://cdn.amethystrealms.net/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar",
+      "sha1": "a4827225b3c07662ca68b03ea20d11433a0c0488"
     },
     {
       "path": "libraries/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar",
