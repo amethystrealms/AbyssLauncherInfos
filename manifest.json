@@ -17,14 +17,9 @@
       "sha1": "64e4761d88f1ce40999ebd35c718f89ddbc655ca"
     },
     {
-      "path": "mods/abysscore-0.1.2.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abysscore-0.1.2.jar",
-      "sha1": "19cb762052153da0d0ccdc9bfd7fedef591c6236"
-    },
-    {
-      "path": "mods/abysscore-0.1.3.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abysscore-0.1.3.jar",
-      "sha1": "65910d364640eb64a37ac2544a3bf8a85c2adf30"
+      "path": "mods/abysscore-0.1.4.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abysscore-0.1.4.jar",
+      "sha1": "7fd8115838b0624e8e5c22d99e6c0bb526ffce11"
     },
     {
       "path": "mods/abyssitems-0.0.2.jar",
@@ -557,6 +552,11 @@
       "sha1": "f8b558f8c464f202f4a88a44332b3a495c0dc727"
     },
     {
+      "path": "mods/fabric-api-0.116.12\u002B1.21.1.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/fabric-api-0.116.12\u002B1.21.1.jar.disabled",
+      "sha1": "90cd4212da24365fae24c0090234b053094b218b"
+    },
+    {
       "path": "mods/fabrishot-1.14.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/fabrishot-1.14.1.jar",
       "sha1": "c8afc690bb3508df7db793f37e1fe5407dba2f22"
@@ -970,11 +970,6 @@
       "path": "mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "url": "https://cdn.amethystrealms.net/mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc"
-    },
-    {
-      "path": "mods/Multiworld-NeoForged-1.21.1.jar",
-      "url": "https://cdn.amethystrealms.net/mods/Multiworld-NeoForged-1.21.1.jar",
-      "sha1": "53c786039efa88f8880caf1d6083d0ee95fced44"
     },
     {
       "path": "mods/neo_language_reload-1.0.0.jar",
@@ -5992,24 +5987,14 @@
       "sha1": "52fe1949be64e3303aabaaa21e315f551db9c9f4"
     },
     {
-      "path": "libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-server.jar",
-      "url": "https://cdn.amethystrealms.net/libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-server.jar",
-      "sha1": "6d64e007f69558ab04a5d20b060472ab3d9eb752"
+      "path": "libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-client.jar",
+      "url": "https://cdn.amethystrealms.net/libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-client.jar",
+      "sha1": "9464689496bdd1c73fb3fa33c09cb79f656aa378"
     },
     {
       "path": "libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-universal.jar",
       "url": "https://cdn.amethystrealms.net/libraries/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-universal.jar",
       "sha1": "23db558c44b8c05cb60c96cea0fab2242db94aa8"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.230/unix_args.txt",
-      "url": "https://cdn.amethystrealms.net/libraries/net/neoforged/neoforge/21.1.230/unix_args.txt",
-      "sha1": "4b5975265666017c20c78ce28c7838dc69c9e9a0"
-    },
-    {
-      "path": "libraries/net/neoforged/neoforge/21.1.230/win_args.txt",
-      "url": "https://cdn.amethystrealms.net/libraries/net/neoforged/neoforge/21.1.230/win_args.txt",
-      "sha1": "6a25fbcbc8db4dac6f0c4de29863ba14a92ed366"
     },
     {
       "path": "libraries/net/neoforged/neoform/1.21.1-20240808.144430/neoform-1.21.1-20240808.144430-mappings-merged.txt",
@@ -6284,22 +6269,17 @@
     {
       "path": "versions/jre_manifest.json",
       "url": "https://cdn.amethystrealms.net/versions/jre_manifest.json",
-      "sha1": "3f7d5c0faaf58e13ab59a967ceada77b99e15e01"
+      "sha1": "b2adfded95dbd8ff11e12bfe9004011c2ad3691a"
     },
     {
       "path": "versions/version_manifest_v2.json",
       "url": "https://cdn.amethystrealms.net/versions/version_manifest_v2.json",
-      "sha1": "96295ecac612a7e76a5612b716ce824d71736f43"
-    },
-    {
-      "path": "versions/neoforge-21.1.230/neoforge-21.1.230.jar",
-      "url": "https://cdn.amethystrealms.net/versions/neoforge-21.1.230/neoforge-21.1.230.jar",
-      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88"
+      "sha1": "f3046e6fa62a3844c78dfd79948b3d7ead902122"
     },
     {
       "path": "versions/neoforge-21.1.230/neoforge-21.1.230.json",
       "url": "https://cdn.amethystrealms.net/versions/neoforge-21.1.230/neoforge-21.1.230.json",
-      "sha1": "026e2eee11f9b2c0cfabf73bd5a45e1991b4f2ea"
+      "sha1": "458b4dea0038848cc1e2d76ed77d2bd2999218fa"
     }
   ]
 }
