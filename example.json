@@ -1,0 +1,34 @@
+{
+  "name": "AmethystAbyss",
+  "version": "0.0.1",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.230",
+  "launchVersion": "neoforge-21.1.230",
+  "delete": [
+    "mods/oldmod.jar",
+    "configs/example"
+  ],
+  "files": [
+    {
+      "path": "mods/example.jar",
+      "url": "https://cdn.amethystrealms.net/mods/example.jar",
+      "sha1": "example"
+    },
+    {
+      "path": "config/example.txt",
+      "url": "https://cdn.amethystrealms.net/config/example.txt",
+      "sha1": "example"
+    },
+    {
+      "path": "shaderpacks/example.zip",
+      "url": "https://cdn.amethystrealms.net/shaderpacks/example.zip",
+      "sha1": "example"
+    },
+    {
+      "path": "example.dat",
+      "url": "https://cdn.amethystrealms.net/example.dat",
+      "sha1": "example"
+    }
+  ]
+}
