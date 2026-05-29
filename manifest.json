@@ -10,6 +10,22 @@
     "mods/Debugify-1.21.1\u002B1.0.jar",
     "mods/shadered-1.1.2.jar"
   ],
+  "blockedMods": [
+    {
+      "name": "forgematica",
+      "displayName": "Forgematica",
+      "sha1Hashes": [
+        "5ef9d8fd67791217a10f3243ed66764e254cd470"
+      ]
+    },
+    {
+      "name": "litematica",
+      "displayName": "Litematica",
+      "sha1Hashes": [
+        "dfd63a022413444682108946d23fe53883f5ce6a"
+      ]
+    }
+  ],
   "files": [
     {
       "path": "mods/abcontrato-1.1.3.jar",
