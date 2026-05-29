@@ -1,10 +1,15 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
+  "delete": [
+    "mods/abyssitems-0.0.2.jar",
+    "mods/Debugify-1.21.1\u002B1.0.jar",
+    "mods/shadered-1.1.2.jar"
+  ],
   "files": [
     {
       "path": "mods/abcontrato-1.1.3.jar",
@@ -17,19 +22,29 @@
       "sha1": "64e4761d88f1ce40999ebd35c718f89ddbc655ca"
     },
     {
+      "path": "mods/abysscore-0.1.3.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abysscore-0.1.3.jar",
+      "sha1": "65910d364640eb64a37ac2544a3bf8a85c2adf30"
+    },
+    {
       "path": "mods/abysscore-0.1.4.jar",
       "url": "https://cdn.amethystrealms.net/mods/abysscore-0.1.4.jar",
       "sha1": "7fd8115838b0624e8e5c22d99e6c0bb526ffce11"
     },
     {
-      "path": "mods/abyssitems-0.0.2.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.2.jar",
-      "sha1": "d9ea3d37272f5b67a30e14626ae75807f43fcc9a"
+      "path": "mods/abyssitems-0.0.5.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.5.jar",
+      "sha1": "b4a804f95800b6b53f0ee81fd9899972b374b807"
     },
     {
       "path": "mods/abyssstatus-0.0.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/abyssstatus-0.0.1.jar",
       "sha1": "90af304394dc3600ac3a0939e20877ad1d40e480"
+    },
+    {
+      "path": "mods/abysstp-0.0.1.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abysstp-0.0.1.jar",
+      "sha1": "84935bc7970b893368dc5c233d587ccea8449139"
     },
     {
       "path": "mods/abysstp-0.0.2.jar",
@@ -52,6 +67,11 @@
       "sha1": "e3d33e86ad704486a78a54b727394a379b88e549"
     },
     {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar.disabled",
+      "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78"
+    },
+    {
       "path": "mods/ae2jeiintegration-1.2.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/ae2jeiintegration-1.2.1.jar",
       "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
@@ -72,9 +92,19 @@
       "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259"
     },
     {
+      "path": "mods/alltheleaks-1.1.9\u002B1.21.1-neoforge.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/alltheleaks-1.1.9\u002B1.21.1-neoforge.jar.disabled",
+      "sha1": "2e9d1bc9bb9801af070f59a808db232c2a6526dd"
+    },
+    {
       "path": "mods/amendments-1.21-2.0.15-neoforge.jar",
       "url": "https://cdn.amethystrealms.net/mods/amendments-1.21-2.0.15-neoforge.jar",
       "sha1": "00056f29646f3bf86116b281c2362c0dabdb4533"
+    },
+    {
+      "path": "mods/amethyst-presence-1.0.0.jar",
+      "url": "https://cdn.amethystrealms.net/mods/amethyst-presence-1.0.0.jar",
+      "sha1": "4d84f50110b290805fe1a55087f764f724ddf38a"
     },
     {
       "path": "mods/amethystabysspull-1.0.0.jar",
@@ -117,6 +147,11 @@
       "sha1": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
     },
     {
+      "path": "mods/appliedschematicannon-1.0.3.jar",
+      "url": "https://cdn.amethystrealms.net/mods/appliedschematicannon-1.0.3.jar",
+      "sha1": "aca4b9b6619bc0a73625a0c2e242bf245123c16e"
+    },
+    {
       "path": "mods/Aquaculture-1.21.1-2.7.21.jar",
       "url": "https://cdn.amethystrealms.net/mods/Aquaculture-1.21.1-2.7.21.jar",
       "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
@@ -150,6 +185,11 @@
       "path": "mods/Axiom-5.3.0-for-MC1.21.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/Axiom-5.3.0-for-MC1.21.1.jar",
       "sha1": "6e344402f2570d0d4e5775ecc981ee9edd2d6a23"
+    },
+    {
+      "path": "mods/Axiom-5.4.2-for-MC26.1.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/Axiom-5.4.2-for-MC26.1.jar.disabled",
+      "sha1": "5d89bb35ca5f73f40dd7dfc9ef6764916b89689f"
     },
     {
       "path": "mods/azurelib-neo-1.21.1-3.1.8.jar",
@@ -437,8 +477,8 @@
       "sha1": "6cc839da48b2aeef4105d203c32a9b1a0294e360"
     },
     {
-      "path": "mods/Debugify-1.21.1\u002B1.0.jar",
-      "url": "https://cdn.amethystrealms.net/mods/Debugify-1.21.1\u002B1.0.jar",
+      "path": "mods/Debugify-1.21.1\u002B1.0.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/Debugify-1.21.1\u002B1.0.jar.disabled",
       "sha1": "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4"
     },
     {
@@ -617,6 +657,11 @@
       "sha1": "14f2dd9f43254b8c06af04b6f0c8ae5192f658b5"
     },
     {
+      "path": "mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
+      "url": "https://cdn.amethystrealms.net/mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
+      "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+    },
+    {
       "path": "mods/forgified-fabric-api-0.116.7\u002B2.2.4\u002B1.21.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/forgified-fabric-api-0.116.7\u002B2.2.4\u002B1.21.1.jar",
       "sha1": "c0267082a59e166f47c3c64ba605faa778a29480"
@@ -715,6 +760,11 @@
       "path": "mods/immersive_melodies-neoforge-0.6.4\u002B1.21.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/immersive_melodies-neoforge-0.6.4\u002B1.21.1.jar",
       "sha1": "7c03c8f750bdcda75847e91d9eedde02ca6d1048"
+    },
+    {
+      "path": "mods/indium-1.0.35\u002Bmc1.21.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/indium-1.0.35\u002Bmc1.21.jar.disabled",
+      "sha1": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb"
     },
     {
       "path": "mods/industrialforegoing-1.21-3.6.38.jar",
@@ -952,6 +1002,11 @@
       "sha1": "834cc35294be3bb514bc0ba571ab7337961af383"
     },
     {
+      "path": "mods/moreculling-neoforge-1.21.1-1.0.8.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/moreculling-neoforge-1.21.1-1.0.8.jar.disabled",
+      "sha1": "fdbfaa5d6d93a11d44020301199dac68de231649"
+    },
+    {
       "path": "mods/MoreToolMod-neoforge1.21.1-v1.1.0.jar",
       "url": "https://cdn.amethystrealms.net/mods/MoreToolMod-neoforge1.21.1-v1.1.0.jar",
       "sha1": "d17b98a432e3d4788b2213b49b7998c8e0dcd31b"
@@ -970,6 +1025,11 @@
       "path": "mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "url": "https://cdn.amethystrealms.net/mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc"
+    },
+    {
+      "path": "mods/Multiworld-NeoForged-1.21.1.jar",
+      "url": "https://cdn.amethystrealms.net/mods/Multiworld-NeoForged-1.21.1.jar",
+      "sha1": "53c786039efa88f8880caf1d6083d0ee95fced44"
     },
     {
       "path": "mods/neo_language_reload-1.0.0.jar",
@@ -1055,6 +1115,11 @@
       "path": "mods/Placebo-1.21.1-9.9.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/Placebo-1.21.1-9.9.1.jar",
       "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
+    },
+    {
+      "path": "mods/plasmovoice-neoforge-1.21.1-2.1.9.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/plasmovoice-neoforge-1.21.1-2.1.9.jar.disabled",
+      "sha1": "b867444a632f05a4e71858f4300276a5d8cb1383"
     },
     {
       "path": "mods/player-animation-lib-forge-2.0.4\u002B1.21.1.jar",
@@ -1192,9 +1257,9 @@
       "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
     },
     {
-      "path": "mods/shadered-1.1.2.jar",
-      "url": "https://cdn.amethystrealms.net/mods/shadered-1.1.2.jar",
-      "sha1": "70e978841fc8f8cce4bec8f6bca15644d1c957e3"
+      "path": "mods/shadered-1.1.3.jar",
+      "url": "https://cdn.amethystrealms.net/mods/shadered-1.1.3.jar",
+      "sha1": "8170881fcb06225b250e6b0d9e572b6212173337"
     },
     {
       "path": "mods/ShoulderSurfing-NeoForge-1.21.1-4.22.10.jar",
@@ -1290,6 +1355,11 @@
       "path": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
       "url": "https://cdn.amethystrealms.net/mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
       "sha1": "45a0318e8e49e7f3aab213df5cc32b3e7e128b6c"
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar.disabled",
+      "url": "https://cdn.amethystrealms.net/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar.disabled",
+      "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5"
     },
     {
       "path": "mods/spark-1.10.124-neoforge.jar",
