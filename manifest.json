@@ -11,7 +11,8 @@
     "mods/shadered-1.1.2.jar",
     "mods/abysstp-0.0.1.jar",
     "mods/abysscore-0.1.3.jar",
-    "mods/forgematica-0.4.1\u002Bmc1.21.1.jar"
+    "mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
+    "mods/Multiworld-NeoForged-1.21.1.jar"
   ],
   "blockedMods": [
     {
@@ -1044,11 +1045,6 @@
       "path": "mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "url": "https://cdn.amethystrealms.net/mods/mru-1.0.19\u002BLTS\u002B1.21.1\u002Bneoforge.jar",
       "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc"
-    },
-    {
-      "path": "mods/Multiworld-NeoForged-1.21.1.jar",
-      "url": "https://cdn.amethystrealms.net/mods/Multiworld-NeoForged-1.21.1.jar",
-      "sha1": "53c786039efa88f8880caf1d6083d0ee95fced44"
     },
     {
       "path": "mods/neo_language_reload-1.0.0.jar",
