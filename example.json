@@ -9,6 +9,21 @@
     "mods/oldmod.jar",
     "configs/example"
   ],
+  "blockedMods": [
+    {
+      "name": "wurst",
+      "displayName": "Wurst Client",
+      "sha1Hashes": [
+        "a1b2c3d4e5f6...",
+        "f6e5d4c3b2a1..."
+      ]
+    },
+    {
+      "name": "meteor",
+      "displayName": "Meteor Client",
+      "sha1Hashes": []
+    }
+  ],
   "files": [
     {
       "path": "mods/example.jar",
