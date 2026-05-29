@@ -1035,11 +1035,6 @@
       "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc"
     },
     {
-      "path": "mods/Multiworld-NeoForged-1.21.1.jar",
-      "url": "https://cdn.amethystrealms.net/mods/Multiworld-NeoForged-1.21.1.jar",
-      "sha1": "53c786039efa88f8880caf1d6083d0ee95fced44"
-    },
-    {
       "path": "mods/neo_language_reload-1.0.0.jar",
       "url": "https://cdn.amethystrealms.net/mods/neo_language_reload-1.0.0.jar",
       "sha1": "6e98066515853318d1b760bed021045884d5c9ca"
