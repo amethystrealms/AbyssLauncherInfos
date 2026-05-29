@@ -8,7 +8,8 @@
   "delete": [
     "mods/abyssitems-0.0.2.jar",
     "mods/Debugify-1.21.1\u002B1.0.jar",
-    "mods/shadered-1.1.2.jar"
+    "mods/shadered-1.1.2.jar",
+    "mods/abysstp-0.0.1.jar"
   ],
   "blockedMods": [
     {
@@ -56,11 +57,6 @@
       "path": "mods/abyssstatus-0.0.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/abyssstatus-0.0.1.jar",
       "sha1": "90af304394dc3600ac3a0939e20877ad1d40e480"
-    },
-    {
-      "path": "mods/abysstp-0.0.1.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abysstp-0.0.1.jar",
-      "sha1": "84935bc7970b893368dc5c233d587ccea8449139"
     },
     {
       "path": "mods/abysstp-0.0.2.jar",
