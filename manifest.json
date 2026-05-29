@@ -1,6 +1,6 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -495,11 +495,6 @@
       "path": "mods/databank-1.3.1.jar",
       "url": "https://cdn.amethystrealms.net/mods/databank-1.3.1.jar",
       "sha1": "6cc839da48b2aeef4105d203c32a9b1a0294e360"
-    },
-    {
-      "path": "mods/Debugify-1.21.1\u002B1.0.jar.disabled",
-      "url": "https://cdn.amethystrealms.net/mods/Debugify-1.21.1\u002B1.0.jar.disabled",
-      "sha1": "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4"
     },
     {
       "path": "mods/delightfulcreators-1.2.jar",
@@ -1065,6 +1060,11 @@
       "path": "mods/occultism-1.21.1-neoforge-1.215.0.jar",
       "url": "https://cdn.amethystrealms.net/mods/occultism-1.21.1-neoforge-1.215.0.jar",
       "sha1": "63b4b96a0ca9079dbcc4b4c02dbf055254999881"
+    },
+    {
+      "path": "mods/occultism_kubejs-1.21.1-neoforge-1.11.0.jar",
+      "url": "https://cdn.amethystrealms.net/mods/occultism_kubejs-1.21.1-neoforge-1.11.0.jar",
+      "sha1": "d48b97b0cc58c9c75292a1d8eab2b7c1469ed8f7"
     },
     {
       "path": "mods/OctoLib-NEOFORGE-0.6.2\u002B1.21.jar",
