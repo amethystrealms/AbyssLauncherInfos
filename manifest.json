@@ -1,6 +1,6 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -1926,16 +1926,6 @@
       "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "url": "https://cdn.amethystrealms.net/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c"
-    },
-    {
-      "path": "blocked-mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
-      "url": "https://cdn.amethystrealms.net/blocked-mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
-      "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
-    },
-    {
-      "path": "blocked-mods/litematica-fabric-1.21-0.19.60.jar",
-      "url": "https://cdn.amethystrealms.net/blocked-mods/litematica-fabric-1.21-0.19.60.jar",
-      "sha1": "dfd63a022413444682108946d23fe53883f5ce6a"
     },
     {
       "path": "servers.dat",
