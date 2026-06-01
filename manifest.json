@@ -1,11 +1,12 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/abyssitems-0.0.5.jar",
     "mods/abyssitems-0.0.2.jar",
     "mods/Debugify-1.21.1\u002B1.0.jar",
     "mods/shadered-1.1.2.jar",
@@ -47,9 +48,9 @@
       "sha1": "7fd8115838b0624e8e5c22d99e6c0bb526ffce11"
     },
     {
-      "path": "mods/abyssitems-0.0.5.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.5.jar",
-      "sha1": "b4a804f95800b6b53f0ee81fd9899972b374b807"
+      "path": "mods/abyssitems-0.0.6.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.6.jar",
+      "sha1": "e34768ef7c1d1180fef6338af9e00bf3e503505f"
     },
     {
       "path": "mods/abyssstatus-0.0.1.jar",
@@ -1925,6 +1926,16 @@
       "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "url": "https://cdn.amethystrealms.net/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c"
+    },
+    {
+      "path": "blocked-mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
+      "url": "https://cdn.amethystrealms.net/blocked-mods/forgematica-0.4.1\u002Bmc1.21.1.jar",
+      "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+    },
+    {
+      "path": "blocked-mods/litematica-fabric-1.21-0.19.60.jar",
+      "url": "https://cdn.amethystrealms.net/blocked-mods/litematica-fabric-1.21-0.19.60.jar",
+      "sha1": "dfd63a022413444682108946d23fe53883f5ce6a"
     },
     {
       "path": "servers.dat",
