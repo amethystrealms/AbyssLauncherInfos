@@ -1,6 +1,6 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -501,6 +501,11 @@
       "path": "mods/delightfulcreators-1.2.jar",
       "url": "https://cdn.amethystrealms.net/mods/delightfulcreators-1.2.jar",
       "sha1": "7e98154dcea3d83cb83b8d71eb3671a27359508c"
+    },
+    {
+      "path": "mods/do_a_barrel_roll-neoforge-3.7.3\u002B1.21.jar",
+      "url": "https://cdn.amethystrealms.net/mods/do_a_barrel_roll-neoforge-3.7.3\u002B1.21.jar",
+      "sha1": "6a3cc7dc17fb701087a9705b06d75d9bb5f09065"
     },
     {
       "path": "mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
