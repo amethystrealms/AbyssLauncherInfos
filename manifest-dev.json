@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -24,9 +24,89 @@
   ],
   "files": [
     {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
+      "sha1": "77d75c2e13cfdf56a45cdd29806c1c97c3d250fc"
+    },
+    {
+      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/AI-Improvements-1.21-0.5.3.jar",
+      "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+    },
+    {
+      "path": "mods/alexscaves-2.0.10.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/alexscaves-2.0.10.jar",
+      "sha1": "366ddaac40f14cd0102f026b4d999753fc1db2a4"
+    },
+    {
+      "path": "mods/alexsdelight-1.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/alexsdelight-1.6.jar",
+      "sha1": "19e8d1e255c431b706e79412be92d8448c668f4c"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.17.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/alexsmobs-1.22.17.jar",
+      "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+    },
+    {
+      "path": "mods/alltheores-3.2.0_neoforge_1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/alltheores-3.2.0_neoforge_1.21.1.jar",
+      "sha1": "e13ba7f0ba43043cbe8723de7533e39accc87ad1"
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "sha1": "c79ab328b2c46068effebdcb3f26e98dc4404cb0"
+    },
+    {
+      "path": "mods/amendments-1.21-2.0.15-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/amendments-1.21-2.0.15-neoforge.jar",
+      "sha1": "00056f29646f3bf86116b281c2362c0dabdb4533"
+    },
+    {
+      "path": "mods/ApothicAttributes-1.21.1-2.9.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ApothicAttributes-1.21.1-2.9.1.jar",
+      "sha1": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff"
+    },
+    {
+      "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
+      "path": "mods/Aquaculture-1.21.1-2.7.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Aquaculture-1.21.1-2.7.21.jar",
+      "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
+    },
+    {
+      "path": "mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "111393c07a98f29cab1de0d91965cc1bc6d9d73f"
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+    },
+    {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/BadOptimizations-2.4.1-1.21.1.jar",
       "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
+      "path": "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0"
     },
     {
       "path": "mods/balm-neoforge-1.21.1-21.0.56.jar",
@@ -39,9 +119,44 @@
       "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb"
     },
     {
+      "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+      "sha1": "a0dec78a9c1bb7e0167e5326aaf3c58a94f3aa86"
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
+    },
+    {
+      "path": "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
+      "sha1": "60d2ce7f9ce3f6e5da6a0bce0a84048fe3a0152e"
+    },
+    {
+      "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha1": "6f5395f58139802edfde7cb9170279f92f291971"
+    },
+    {
       "path": "mods/chunksending-1.21-2.9.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/chunksending-1.21-2.9.jar",
       "sha1": "636a121a3252028bb0ec14a3f39f9bbf723ddacd"
+    },
+    {
+      "path": "mods/citadel-1.21.1-2.7.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/citadel-1.21.1-2.7.6.jar",
+      "sha1": "e0392370117ec16a721f8d65728944398de77607"
+    },
+    {
+      "path": "mods/citadel-2.7.0-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/citadel-2.7.0-1.21.1.jar",
+      "sha1": "01b18dfa37528aebd63b49874c9ac7795a4fc084"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
     },
     {
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
@@ -54,6 +169,16 @@
       "sha1": "ec63110d126cf95dabe220116bd394e701265de7"
     },
     {
+      "path": "mods/configured-neoforge-1.21.1-2.6.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/configured-neoforge-1.21.1-2.6.3.jar",
+      "sha1": "e977d86eec39d49295df4e2c4265d6710ae065e8"
+    },
+    {
+      "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "sha1": "0a44c13d6744e0eeec5bf38f58756a8e86e96f55"
+    },
+    {
       "path": "mods/connectivity-1.21.1-7.6.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/connectivity-1.21.1-7.6.jar",
       "sha1": "6adebe84f745dec8fa33bc3982383bc1cc24d49e"
@@ -62,6 +187,66 @@
       "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
+      "path": "mods/copycats-3.0.4\u002Bmc.1.21.1-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/copycats-3.0.4\u002Bmc.1.21.1-neoforge.jar",
+      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+    },
+    {
+      "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha1": "4f42091ef36e98e99c2f28a273ded960c0ac08bd"
+    },
+    {
+      "path": "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "sha1": "2aa5e83940a26c6e529e58a3a8a0260df3078c6d"
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "sha1": "5f1e699cd0888b857ec63f01adaeb3571848bfea"
+    },
+    {
+      "path": "mods/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "sha1": "c9a4c265a2ca4ab2db0ab0c673d7b9978b0086aa"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+    },
+    {
+      "path": "mods/CreateOPlenty-NeoForge-Create\u002B6.0.7-3.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/CreateOPlenty-NeoForge-Create\u002B6.0.7-3.0.jar",
+      "sha1": "9c636f52e9354fdccc0b53201c22dfb5887f0589"
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "sha1": "4b666b4668b77fdc1ac34a183aae58a432999970"
+    },
+    {
+      "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.1.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cristellib-neoforge-1.21.1-3.1.6.jar",
+      "sha1": "040b80a5736a414a53d74e2818e1e62b61e569f0"
+    },
+    {
+      "path": "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "sha1": "c32ae5df533d081f845a153ab67c8d1c61cf339f"
+    },
+    {
+      "path": "mods/croptopia-neoforge-1.21.1-4.2.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/croptopia-neoforge-1.21.1-4.2.4.jar",
+      "sha1": "2f03480a38c5d9113d22ae2012c69b165079c0e0"
     },
     {
       "path": "mods/cupboard-1.21-3.5.jar",
@@ -79,9 +264,64 @@
       "sha1": "3b80e1d4be245787eecf811ff87a2afffbedc886"
     },
     {
+      "path": "mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+      "sha1": "b47a59369a55f818cadd9e0eeb9352b4028a5e9b"
+    },
+    {
+      "path": "mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7"
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
+    },
+    {
+      "path": "mods/easy_npc-neoforge-1.21.1-6.17.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/easy_npc-neoforge-1.21.1-6.17.0.jar",
+      "sha1": "64c0e62dad7368a86ff5784a9279bec3f09d7b5f"
+    },
+    {
+      "path": "mods/easy_npc_bundle-neoforge-1.21.1-6.17.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/easy_npc_bundle-neoforge-1.21.1-6.17.0.jar",
+      "sha1": "9e24275cc03dad938e57629b832025642c69faa3"
+    },
+    {
+      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar",
+      "sha1": "502d9ca301dcd193f6337638a246c922813df362"
+    },
+    {
       "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca"
+    },
+    {
+      "path": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "sha1": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef"
+    },
+    {
+      "path": "mods/Explorify v1.6.5.mod.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Explorify v1.6.5.mod.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd"
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+      "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
+    },
+    {
+      "path": "mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+      "sha1": "2b103680ca80a1d617dcae74630c4df8e93d3c55"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
     },
     {
       "path": "mods/fastasyncworldsave-1.21-2.6.jar",
@@ -94,9 +334,19 @@
       "sha1": "589f05dcd58d3708cee9046b23fe11fb81a25d2e"
     },
     {
+      "path": "mods/FastSuite-1.21.1-6.0.7.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/FastSuite-1.21.1-6.0.7.jar",
+      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
+    },
+    {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    {
+      "path": "mods/figura-0.1.5\u002B1.21.1-neoforge-mc.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/figura-0.1.5\u002B1.21.1-neoforge-mc.jar",
+      "sha1": "839661a870a3e01500ad8e38a454dacc4af155b3"
     },
     {
       "path": "mods/flickerfix-1.21.1-6.1.0.jar",
@@ -104,9 +354,44 @@
       "sha1": "3eadf069d9eeb7fb4e2295828a8aaefe6691d96d"
     },
     {
+      "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475"
+    },
+    {
+      "path": "mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+      "sha1": "d86f641b67d4b01d99da8424ba2a3edc0e6690b6"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6\u002B1.21\u002Bneoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fzzy_config-0.7.6\u002B1.21\u002Bneoforge.jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad"
+    },
+    {
+      "path": "mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+      "sha1": "4507faefb977321b598daa3fb35d7e1a9a03eb80"
+    },
+    {
       "path": "mods/gpumemleakfix-1.21-1.8.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/gpumemleakfix-1.21-1.8.jar",
       "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208"
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8"
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.10\u002B1.21.1.jar",
@@ -119,9 +404,54 @@
       "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584"
     },
     {
+      "path": "mods/iris-neoforge-1.8.12\u002Bmc1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/iris-neoforge-1.8.12\u002Bmc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378"
+    },
+    {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
       "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+    },
+    {
+      "path": "mods/jamlib-neoforge-1.3.6\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/jamlib-neoforge-1.3.6\u002B1.21.1.jar",
+      "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82"
+    },
+    {
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.81.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/journeymap-neoforge-1.21.1-6.0.0-beta.81.jar",
+      "sha1": "03e7bf1ea1e276574dd81b1ee6b415d298ad67f6"
+    },
+    {
+      "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+    },
+    {
+      "path": "mods/kotlinforforge-5.11.0-all.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/kotlinforforge-5.11.0-all.jar",
+      "sha1": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
+    },
+    {
+      "path": "mods/launcherguard-0.0.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/launcherguard-0.0.1.jar",
+      "sha1": "967eed0d676b7a6180c0f50de4e83862c058dffa"
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b"
+    },
+    {
+      "path": "mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2"
     },
     {
       "path": "mods/lmft-1.1.1\u002B1.21.9-neoforge.jar",
@@ -129,9 +459,119 @@
       "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770"
     },
     {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "sha1": "a8acaf64fb3991526bfe7456189ccde247334265"
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "sha1": "3dccc819f14bcc60b3683edd82ca8c5e64964229"
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38"
+    },
+    {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "sha1": "1ee43d693c821efc955a74e551f94372af90a140"
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d"
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620"
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+    },
+    {
+      "path": "mods/modelfix-1.21-1.10.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/modelfix-1.21-1.10.jar",
+      "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+    },
+    {
+      "path": "mods/MoogsBountifulStructures-1.21-1.0.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/MoogsBountifulStructures-1.21-1.0.6.jar",
+      "sha1": "5e0e051a7ae80a49cc4ec4aeb5448d213f83d1ff"
+    },
+    {
+      "path": "mods/MoogsVoyagerStructures-1.21-5.0.11.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/MoogsVoyagerStructures-1.21-5.0.11.jar",
+      "sha1": "b76969dccad434b7a3576da608651ea4b7708064"
+    },
+    {
+      "path": "mods/MoogsVoyagerStructuresIntegrated-1.21-1.0.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/MoogsVoyagerStructuresIntegrated-1.21-1.0.2.jar",
+      "sha1": "5aadcb344cd1940dabc54618fd88603b00d08eae"
+    },
+    {
+      "path": "mods/moogs_structures-neoforge-1.21.1-2.0.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/moogs_structures-neoforge-1.21.1-2.0.2.jar",
+      "sha1": "02b67121196776b2dc1ce69a057e19bf59d19f4d"
+    },
+    {
+      "path": "mods/moonlight-neoforge-1.21.1-3.0.16.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/moonlight-neoforge-1.21.1-3.0.16.jar",
+      "sha1": "494ac7255ab0321f01a980cc21f1a3a5e4c0cf74"
+    },
+    {
+      "path": "mods/morered-1.21.1-6.0.0.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/morered-1.21.1-6.0.0.3.jar",
+      "sha1": "a69f18365301470c0fc2b07125c9ba3c10f270f6"
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    {
+      "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mowziesmobs-1.21.1-1.8.2.jar",
+      "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
+    },
+    {
       "path": "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "sha1": "9edfc7861277ff661141304dc8216f83eacdd9af"
+    },
+    {
+      "path": "mods/overloadedarmorbar-neoforge-1.21-2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/overloadedarmorbar-neoforge-1.21-2.jar",
+      "sha1": "250b3f1a34bcaee383545761f102834475e86819"
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+    },
+    {
+      "path": "mods/Pehkui-3.8.3\u002B1.21-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Pehkui-3.8.3\u002B1.21-neoforge.jar",
+      "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b"
     },
     {
       "path": "mods/Placebo-1.21.1-9.9.1.jar",
@@ -144,9 +584,39 @@
       "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
     },
     {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "sha1": "035de52d3eb18ceeca4e4e63516af873c0975060"
+    },
+    {
+      "path": "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+      "sha1": "bd8ac0c82a04179c649f40b3333ff0648f444086"
+    },
+    {
       "path": "mods/reeses-sodium-options-neoforge-2.0.5\u002Bmc1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/reeses-sodium-options-neoforge-2.0.5\u002Bmc1.21.1.jar",
       "sha1": "9869222c022c73362ab22ea559f52c19dabf0467"
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+    },
+    {
+      "path": "mods/rightclickharvest-neoforge-4.6.1\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/rightclickharvest-neoforge-4.6.1\u002B1.21.1.jar",
+      "sha1": "473b960c0cae751b7752a43df4756010e30988fa"
     },
     {
       "path": "mods/saturn-mc1.21.1-0.1.5.jar",
@@ -164,6 +634,26 @@
       "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
     },
     {
+      "path": "mods/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
+      "sha1": "fea605988303ad4bdb395769001aab1a0b9b1b2f"
+    },
+    {
+      "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "sha1": "81748b4f728575d9bbab571ab07e6a24cf3ff126"
+    },
+    {
+      "path": "mods/simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "sha1": "7dd9bdbc601f8d8a8e5bbe2d2db5343321ee2fb4"
+    },
+    {
+      "path": "mods/SimplyTooltips-neoforge-0.1.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/SimplyTooltips-neoforge-0.1.3.jar",
+      "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746"
+    },
+    {
       "path": "mods/smoothchunk-1.21-4.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/smoothchunk-1.21-4.1.jar",
       "sha1": "f54d5d352e15560240f151a7d054096a33a58f4a"
@@ -174,9 +664,64 @@
       "sha1": "2aa70d594f698859b7bcc3d7876ffcbe140342d3"
     },
     {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+      "sha1": "383b1bbf6add783eef5ea99ec90b8a14284ddc87"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.44.1923.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/sophisticatedcore-1.21.1-1.4.44.1923.jar",
+      "sha1": "a20903b6c99dc2e6c0412488b97cb6972128121c"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.55.1772.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/sophisticatedstorage-1.21.1-1.5.55.1772.jar",
+      "sha1": "6b1ce54c3e39fd006cf61428718e56df6aa0746c"
+    },
+    {
+      "path": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+    },
+    {
       "path": "mods/structureessentials-1.21.1-5.0.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/structureessentials-1.21.1-5.0.jar",
       "sha1": "5c059c2cb2ad8c43e1384b0939bf258801aadfea"
+    },
+    {
+      "path": "mods/StylishEffects-v21.1.2-1.21.1-NeoForge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/StylishEffects-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "1e987d711f5f0321f4b82b393e1a34202f69165b"
+    },
+    {
+      "path": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+      "sha1": "f0c846484bd7c769b88f38ab31429457f52552d7"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "sha1": "84802fbe1645de8caf61ccb07db6cf451e614f68"
+    },
+    {
+      "path": "mods/supplementaries-neoforge-1.21.1-3.6.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/supplementaries-neoforge-1.21.1-3.6.6.jar",
+      "sha1": "c19d5c44ef86c16a1214189e7684024436a544fa"
+    },
+    {
+      "path": "mods/tectonic-3.0.22-neoforge-21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/tectonic-3.0.22-neoforge-21.1.jar",
+      "sha1": "12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314"
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
     },
     {
       "path": "mods/ToastControl-1.21.1-9.0.1.jar",
@@ -192,6 +737,36 @@
       "path": "mods/trashslot-neoforge-1.21.1-21.1.11.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/trashslot-neoforge-1.21.1-21.1.11.jar",
       "sha1": "7343e4b563feb79122c8373a0d5416182ca436a8"
+    },
+    {
+      "path": "mods/Twigs-1.21.1-3.1.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Twigs-1.21.1-3.1.2.jar",
+      "sha1": "528c54b099afc36ae50c408ce9bfb78a28bdea8b"
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.9\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/t_and_t-neoforge-fabric-1.13.9\u002B1.21.1.jar",
+      "sha1": "2390523f45dc5204e82cfb23ecf4f34dfcc25d1e"
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "sha1": "c9e638f5c049fc143dc043c585b13e9078a3f71d"
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/watermedia-2.1.37.jar",
+      "sha1": "4a91d20d9a3aa8d66e01f7962d77c974ad538f4f"
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/watermedia_youtube_plugin-2.1.2.jar",
+      "sha1": "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5"
+    },
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.34.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/waystones-neoforge-1.21.1-21.1.34.jar",
+      "sha1": "6261985211f6484e0427e2de1a10e2f6f8dda1fa"
     },
     {
       "path": "config/badoptimizations.txt",
@@ -247,6 +822,16 @@
       "path": "config/sodium-options.json",
       "url": "https://dev.cdn.amethystrealms.net/config/sodium-options.json",
       "sha1": "0295c783bef9424f0c8a9b117fbdc17896500cee"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "url": "https://dev.cdn.amethystrealms.net/shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "sha1": "5a021081f0178ed91dd911194071465ab0a4348b"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://dev.cdn.amethystrealms.net/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c"
     },
     {
       "path": "servers.dat",
