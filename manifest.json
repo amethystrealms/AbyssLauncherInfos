@@ -1,11 +1,12 @@
 {
   "name": "AmethystAbyss",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/abyssitems-0.0.6.jar",
     "mods/abyssitems-0.0.5.jar",
     "mods/abyssitems-0.0.2.jar",
     "mods/Debugify-1.21.1\u002B1.0.jar",
@@ -48,9 +49,9 @@
       "sha1": "7fd8115838b0624e8e5c22d99e6c0bb526ffce11"
     },
     {
-      "path": "mods/abyssitems-0.0.6.jar",
-      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.6.jar",
-      "sha1": "e34768ef7c1d1180fef6338af9e00bf3e503505f"
+      "path": "mods/abyssitems-0.0.7.jar",
+      "url": "https://cdn.amethystrealms.net/mods/abyssitems-0.0.7.jar",
+      "sha1": "4370dde629167dcaf8d5575683cc04dd45826c8f"
     },
     {
       "path": "mods/abyssstatus-0.0.1.jar",
