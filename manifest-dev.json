@@ -1,35 +1,11 @@
 {
   "name": "DevAmethyst",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
-  "delete": [
-    "mods/abysscore-0.1.5.jar",
-    "mods/cupboard-1.21-3.5.jar",
-    "mods/figura-0.1.5\u002B1.21.1-neoforge-mc.jar",
-    "mods/journeymap-neoforge-1.21.1-6.0.0-beta.81.jar",
-    "mods/moonlight-neoforge-1.21.1-3.0.16.jar",
-    "mods/reeses-sodium-options-neoforge-2.0.5\u002Bmc1.21.1.jar",
-    "mods/sodium-extra-neoforge-0.8.7\u002Bmc1.21.1.jar",
-    "mods/sodium-neoforge-0.8.12-alpha.4\u002Bmc1.21.1.jar",
-    "mods/sophisticatedbackpacks-1.21.1-3.25.55.1843.jar",
-    "mods/sophisticatedcore-1.21.1-1.4.49.1966.jar",
-    "mods/sophisticatedstorage-1.21.1-1.5.57.1790.jar",
-    "config/saturn-optimizations.toml",
-    "config/log4j2.xml",
-    "mods/easy_npc-neoforge-1.21.1-6.17.0.jar",
-    "mods/easy_npc_bundle-neoforge-1.21.1-6.17.0.jar",
-    "mods/easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar",
-    "mods/iris-neoforge-1.8.12\u002Bmc1.21.1.jar",
-    "mods/launcherguard-0.0.1.jar",
-    "mods/MoogsVoyagerStructuresIntegrated-1.21-1.0.2.jar",
-    "mods/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
-    "mods/sophisticatedcore-1.21.1-1.4.44.1923.jar",
-    "mods/sophisticatedstorage-1.21.1-1.5.55.1772.jar",
-    "mods/supplementaries-neoforge-1.21.1-3.6.6.jar"
-  ],
+  "delete": [],
   "blockedMods": [
     {
       "name": "forgematica-0.4.1\u002Bmc1.21.1",
@@ -143,6 +119,11 @@
       "sha1": "8e64d8120a900bbe7897b23119d8b50e2f2001e1"
     },
     {
+      "path": "mods/artifacts-neoforge-13.2.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/artifacts-neoforge-13.2.1.jar",
+      "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+    },
+    {
       "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/athena-neoforge-1.21.1-4.0.6.jar",
       "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
@@ -193,6 +174,11 @@
       "sha1": "636a121a3252028bb0ec14a3f39f9bbf723ddacd"
     },
     {
+      "path": "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "sha1": "5f9db3880861bbda3d22c98d130fad24924c2bac"
+    },
+    {
       "path": "mods/citadel-1.21.1-2.7.6.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/citadel-1.21.1-2.7.6.jar",
       "sha1": "e0392370117ec16a721f8d65728944398de77607"
@@ -201,6 +187,11 @@
       "path": "mods/citadel-2.7.0-1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/citadel-2.7.0-1.21.1.jar",
       "sha1": "01b18dfa37528aebd63b49874c9ac7795a4fc084"
+    },
+    {
+      "path": "mods/cleanswing-1.9.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cleanswing-1.9.jar",
+      "sha1": "c4746d331a9a73158da1c330f0d46ce8714ce5d8"
     },
     {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
@@ -333,6 +324,11 @@
       "sha1": "b47a59369a55f818cadd9e0eeb9352b4028a5e9b"
     },
     {
+      "path": "mods/dummmmmmy-1.21-2.0.12-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/dummmmmmy-1.21-2.0.12-neoforge.jar",
+      "sha1": "0e69c2a8e4e51df42e45b2d6deb3a855bdf8dce6"
+    },
+    {
       "path": "mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
       "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7"
@@ -378,6 +374,11 @@
       "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd"
     },
     {
+      "path": "mods/faewulf_lib-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/faewulf_lib-neoforge-1.21.1-1.3.2.jar",
+      "sha1": "ccfdd25a38f31544a8e5859c3a015dd8a9acf4d5"
+    },
+    {
       "path": "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
@@ -406,6 +407,16 @@
       "path": "mods/FastSuite-1.21.1-6.0.7.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/FastSuite-1.21.1-6.0.7.jar",
       "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
+    },
+    {
+      "path": "mods/fdbosses-3.1.0.3-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fdbosses-3.1.0.3-1.21.1.jar",
+      "sha1": "3f4f903838cc2080ffd6b3a4baebc5c172f585dd"
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fdlib-1.0.9-1.21.1.jar",
+      "sha1": "03a171d170b22a04e67d2cc7894ddddd8489a295"
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
@@ -533,6 +544,11 @@
       "sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2"
     },
     {
+      "path": "mods/lionfishapi-3.0-beta.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/lionfishapi-3.0-beta.jar",
+      "sha1": "0bcbc7d9674f3152414648e041a488cc875a4853"
+    },
+    {
       "path": "mods/lithostitched-1.7.9-neoforge-21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/lithostitched-1.7.9-neoforge-21.1.jar",
       "sha1": "2e0ad9125b0e19caa6c264e4512219bd022acb0d"
@@ -548,6 +564,11 @@
       "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c"
     },
     {
+      "path": "mods/lootintegrations_cataclysm-1.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/lootintegrations_cataclysm-1.2.jar",
+      "sha1": "75b5e36c11aa16cf0d6c38fcb8cfa2afc31a2bb7"
+    },
+    {
       "path": "mods/lootintegrations_moog-2.0.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/lootintegrations_moog-2.0.jar",
       "sha1": "35ad46f5f7a23ec1c20464f7a1baf1dfeed9efe6"
@@ -556,6 +577,11 @@
       "path": "mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
       "sha1": "a8acaf64fb3991526bfe7456189ccde247334265"
+    },
+    {
+      "path": "mods/L_Ender\u0027s Cataclysm 1.21.1-3.30.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/L_Ender\u0027s Cataclysm 1.21.1-3.30.jar",
+      "sha1": "89f53ac8b3286fb14dd5747cf4fb834267490bf8"
     },
     {
       "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
@@ -688,6 +714,11 @@
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
     },
     {
+      "path": "mods/mowzies_cataclysm-1.2.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mowzies_cataclysm-1.2.2.jar",
+      "sha1": "0dff3e849155ca343d1a500f5b9ca2b54ffa692d"
+    },
+    {
       "path": "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "sha1": "9edfc7861277ff661141304dc8216f83eacdd9af"
@@ -708,6 +739,11 @@
       "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
     },
     {
+      "path": "mods/Paraglider-neoforge-21.1.5.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Paraglider-neoforge-21.1.5.jar",
+      "sha1": "39043f24e897fade07a138bb8d60bfe08d8103b1"
+    },
+    {
       "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
@@ -716,6 +752,11 @@
       "path": "mods/Pehkui-3.8.3\u002B1.21-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Pehkui-3.8.3\u002B1.21-neoforge.jar",
       "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b"
+    },
+    {
+      "path": "mods/piggyback-neoforge-1.21.1-1.1.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/piggyback-neoforge-1.21.1-1.1.1.jar",
+      "sha1": "fac0a2ee129f6ba88538fdc19d2cd10ff12d9328"
     },
     {
       "path": "mods/Placebo-1.21.1-9.9.1.jar",
@@ -1011,11 +1052,6 @@
       "path": "servers.dat",
       "url": "https://dev.cdn.amethystrealms.net/servers.dat",
       "sha1": "400c36504279c1d193be07fecc1d867eaa2d1fb4"
-    },
-    {
-      "path": "log4j2.xml",
-      "url": "https://cdn.amethystrealms.net/log4j2.xml",
-      "sha1": "ca08ba292d18c732aab5b208ae30d25067575c53"
     }
   ]
 }
