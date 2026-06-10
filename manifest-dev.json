@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -93,9 +93,29 @@
       "sha1": "00056f29646f3bf86116b281c2362c0dabdb4533"
     },
     {
+      "path": "mods/Apotheosis-1.21.1-8.5.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Apotheosis-1.21.1-8.5.4.jar",
+      "sha1": "24c28cdf26514148a92f7b8c620ec54a2cd2c9ca"
+    },
+    {
+      "path": "mods/Apotheosiscreate-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Apotheosiscreate-1.0.0-neoforge-1.21.1.jar",
+      "sha1": "425b1945fc09c3880506f05793caed4b638e0b9e"
+    },
+    {
       "path": "mods/ApothicAttributes-1.21.1-2.9.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ApothicAttributes-1.21.1-2.9.1.jar",
       "sha1": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff"
+    },
+    {
+      "path": "mods/ApothicEnchanting-1.21.1-1.5.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ApothicEnchanting-1.21.1-1.5.3.jar",
+      "sha1": "751276a13db49a5f2202e50715b8864f5ae40cb6"
+    },
+    {
+      "path": "mods/ApothicSpawners-1.21.1-1.3.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ApothicSpawners-1.21.1-1.3.4.jar",
+      "sha1": "26d701238bdb76a497a64f588409419ad067e557"
     },
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
@@ -191,6 +211,11 @@
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "path": "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+      "sha1": "ae644104c83cdce103f536fb42d500c282cf1b35"
     },
     {
       "path": "mods/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
@@ -316,6 +341,11 @@
       "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
       "sha1": "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
+    },
+    {
+      "path": "mods/dynamic_difficulty-neoforge-1.1.1\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/dynamic_difficulty-neoforge-1.1.1\u002B1.21.1.jar",
+      "sha1": "f7a9d53eba6659c08db96d075e8e1839623616b2"
     },
     {
       "path": "mods/easy_npc-neoforge-1.21.1-6.18.0.jar",
@@ -548,6 +578,11 @@
       "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38"
     },
     {
+      "path": "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "sha1": "4bb7e1d28eef19f87438881b0f582a15297b95ae"
+    },
+    {
       "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
       "sha1": "1ee43d693c821efc955a74e551f94372af90a140"
@@ -671,6 +706,11 @@
       "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
       "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
     },
     {
       "path": "mods/Pehkui-3.8.3\u002B1.21-neoforge.jar",
@@ -806,6 +846,16 @@
       "path": "mods/spark-1.10.124-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/spark-1.10.124-neoforge.jar",
       "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+    },
+    {
+      "path": "mods/spartanshieldsunofficial-1.0.0-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/spartanshieldsunofficial-1.0.0-1.21.1.jar",
+      "sha1": "93a8955413c8105eeafc58379d5b0dfe1f336670"
+    },
+    {
+      "path": "mods/spartan_weaponry_unofficial-1.2.0-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/spartan_weaponry_unofficial-1.2.0-1.21.1.jar",
+      "sha1": "d42ebb67df881b4235af53aef209a3b9764eea8e"
     },
     {
       "path": "mods/structureessentials-1.21.1-5.0.jar",
