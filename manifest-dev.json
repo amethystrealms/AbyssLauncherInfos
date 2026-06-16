@@ -33,11 +33,6 @@
       "sha1": "1e4ec94336392f228fe2a7b033c4949dd98b963a"
     },
     {
-      "path": "mods/abyssbubbles-0.0.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbubbles-0.0.1.jar",
-      "sha1": "e0066b560559bfb2f08ba9a0e3900a7ccdcb5d2c"
-    },
-    {
       "path": "mods/abysscore-0.1.8.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.1.8.jar",
       "sha1": "7e1e0aac77b76b08345c12f318805c6a66d28ca3"
