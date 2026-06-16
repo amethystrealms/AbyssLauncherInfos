@@ -1,11 +1,14 @@
 {
   "name": "DevAmethyst",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
-  "delete": [],
+  "delete": [
+    "mods/abyssbackpacks-0.0.1.jar",
+    "mods/abysscore-0.1.7.jar"
+  ],
   "blockedMods": [
     {
       "name": "forgematica-0.4.1\u002Bmc1.21.1",
@@ -24,14 +27,14 @@
   ],
   "files": [
     {
-      "path": "mods/abyssbackpacks-0.0.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbackpacks-0.0.1.jar",
-      "sha1": "edb883b2cb8f41169a6ce21d49fc00f4eca53601"
+      "path": "mods/abyssbackpacks-0.0.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbackpacks-0.0.2.jar",
+      "sha1": "87e14a53adb6801559d1b69e1b57cad3d74c9f78"
     },
     {
-      "path": "mods/abysscore-0.1.7.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.1.7.jar",
-      "sha1": "3a292fe89c3451f441507a83c26f1905b31771f3"
+      "path": "mods/abysscore-0.1.8.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.1.8.jar",
+      "sha1": "7e1e0aac77b76b08345c12f318805c6a66d28ca3"
     },
     {
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
