@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -33,14 +33,29 @@
       "sha1": "1e4ec94336392f228fe2a7b033c4949dd98b963a"
     },
     {
+      "path": "mods/abyssbubbles-0.0.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbubbles-0.0.1.jar",
+      "sha1": "e0066b560559bfb2f08ba9a0e3900a7ccdcb5d2c"
+    },
+    {
       "path": "mods/abysscore-0.1.8.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.1.8.jar",
       "sha1": "7e1e0aac77b76b08345c12f318805c6a66d28ca3"
     },
     {
+      "path": "mods/abyssitems-0.0.8.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssitems-0.0.8.jar",
+      "sha1": "77aa88a7313992288864a46fc5d20f5769b354c9"
+    },
+    {
       "path": "mods/abyssstatus-0.0.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abyssstatus-0.0.2.jar",
       "sha1": "af8a7616297ed094944ea090bab0a26ad51e5776"
+    },
+    {
+      "path": "mods/abysstp-0.0.4.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abysstp-0.0.4.jar",
+      "sha1": "7078a36f666cc6a586b1fd2e8eee381e7d1f820a"
     },
     {
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -186,6 +201,11 @@
       "path": "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
       "sha1": "60d2ce7f9ce3f6e5da6a0bce0a84048fe3a0152e"
+    },
+    {
+      "path": "mods/chalk-1.6.12.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/chalk-1.6.12.jar",
+      "sha1": "d732fbad51790698a91330533cc1e79cb26f66bb"
     },
     {
       "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
@@ -396,6 +416,11 @@
       "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
       "sha1": "6c6f885e0359c2b0601cbec76fda406caeb49cca"
+    },
+    {
+      "path": "mods/envelope-neoforge-1.21.1-0.6.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/envelope-neoforge-1.21.1-0.6.2.jar",
+      "sha1": "4a651cb23ae3200760d3f2da442749834537a112"
     },
     {
       "path": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
@@ -946,6 +971,11 @@
       "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "path": "mods/shadered-1.1.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/shadered-1.1.3.jar",
+      "sha1": "a06a4b59e1296b3bd7457714382641905670e92d"
     },
     {
       "path": "mods/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
