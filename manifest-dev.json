@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -656,6 +656,11 @@
       "path": "mods/lmft-1.1.1\u002B1.21.9-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/lmft-1.1.1\u002B1.21.9-neoforge.jar",
       "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770"
+    },
+    {
+      "path": "mods/lodestone-1.21.1-1.8.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/lodestone-1.21.1-1.8.2.jar",
+      "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11"
     },
     {
       "path": "mods/lootintegrations-1.21.1-4.7.jar",
