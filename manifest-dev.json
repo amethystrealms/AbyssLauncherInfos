@@ -1,11 +1,12 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/abysscore-0.2.0.jar",
     "mods/abysscore-0.1.8.jar",
     "mods/abyssbackpacks-0.0.5.jar",
     "mods/abyssbubbles-0.0.2.jar",
@@ -45,14 +46,19 @@
       "sha1": "893d20cf371f9a51f03d7e654b1152b4e0efa80a"
     },
     {
-      "path": "mods/abysscore-0.2.0.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.2.0.jar",
-      "sha1": "0ab2e1b98363c598c404028aa5f88177b057e3a7"
+      "path": "mods/abysscore-0.2.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abysscore-0.2.1.jar",
+      "sha1": "acaeaf8f9c41f9ba9cb38a96a2604514bb299bc4"
     },
     {
       "path": "mods/abyssitems-0.0.8.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abyssitems-0.0.8.jar",
       "sha1": "77aa88a7313992288864a46fc5d20f5769b354c9"
+    },
+    {
+      "path": "mods/abyssocult-0.0.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssocult-0.0.1.jar",
+      "sha1": "edd4fa7b1e9c1742c89be5e102768456a1890814"
     },
     {
       "path": "mods/abyssstatus-0.0.2.jar",
@@ -63,6 +69,11 @@
       "path": "mods/abysstp-0.0.4.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abysstp-0.0.4.jar",
       "sha1": "7078a36f666cc6a586b1fd2e8eee381e7d1f820a"
+    },
+    {
+      "path": "mods/abyssveiladdon-0.0.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssveiladdon-0.0.1.jar",
+      "sha1": "5bbba78685eec5c0e35508a9f2d99972befac351"
     },
     {
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -148,6 +159,11 @@
       "path": "mods/ars_nouveau-1.21.1-5.11.7.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ars_nouveau-1.21.1-5.11.7.jar",
       "sha1": "8e64d8120a900bbe7897b23119d8b50e2f2001e1"
+    },
+    {
+      "path": "mods/ars_ocultas-1.21.1-2.4.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ars_ocultas-1.21.1-2.4.1.jar",
+      "sha1": "b1ce2428d28713e50da6e93a421d8b97cc448f6f"
     },
     {
       "path": "mods/artifacts-neoforge-13.2.1.jar",
@@ -780,6 +796,11 @@
       "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
     },
     {
+      "path": "mods/modonomicon-1.21.1-neoforge-1.120.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/modonomicon-1.21.1-neoforge-1.120.1.jar",
+      "sha1": "e127c8ba3d194678e11a00af6422394a7ed476b1"
+    },
+    {
       "path": "mods/MoogsBountifulStructures-1.21-1.0.6.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/MoogsBountifulStructures-1.21-1.0.6.jar",
       "sha1": "5e0e051a7ae80a49cc4ec4aeb5448d213f83d1ff"
@@ -868,6 +889,11 @@
       "path": "mods/not_enough_glyphs-1.21.1-4.5.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/not_enough_glyphs-1.21.1-4.5.1.jar",
       "sha1": "9540858c34c5858b63090b8afb9dacb40318f45d"
+    },
+    {
+      "path": "mods/occultism-1.21.1-neoforge-1.223.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/occultism-1.21.1-neoforge-1.223.0.jar",
+      "sha1": "671b6c9be84037c39d1f843cdd9acc2c667e8e6c"
     },
     {
       "path": "mods/OctoLib-NEOFORGE-0.6.2\u002B1.21.jar",
@@ -1015,6 +1041,11 @@
       "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746"
     },
     {
+      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836"
+    },
+    {
       "path": "mods/smoothchunk-1.21-4.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/smoothchunk-1.21-4.1.jar",
       "sha1": "f54d5d352e15560240f151a7d054096a33a58f4a"
@@ -1143,6 +1174,11 @@
       "path": "mods/Twigs-1.21.1-3.1.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Twigs-1.21.1-3.1.2.jar",
       "sha1": "528c54b099afc36ae50c408ce9bfb78a28bdea8b"
+    },
+    {
+      "path": "mods/veil_origins_mod-1.0.6.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/veil_origins_mod-1.0.6.jar",
+      "sha1": "af80ec644de1a0e4bbdbe5b8cdedb3e3313f9b5a"
     },
     {
       "path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
