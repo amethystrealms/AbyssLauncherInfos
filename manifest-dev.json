@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -78,6 +78,11 @@
       "path": "mods/abysstp-0.0.4.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abysstp-0.0.4.jar",
       "sha1": "7078a36f666cc6a586b1fd2e8eee381e7d1f820a"
+    },
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
+      "sha1": "77d75c2e13cfdf56a45cdd29806c1c97c3d250fc"
     },
     {
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -915,6 +920,11 @@
       "sha1": "250b3f1a34bcaee383545761f102834475e86819"
     },
     {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+    },
+    {
       "path": "mods/Paraglider-neoforge-21.1.5.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Paraglider-neoforge-21.1.5.jar",
       "sha1": "39043f24e897fade07a138bb8d60bfe08d8103b1"
@@ -1028,6 +1038,11 @@
       "path": "mods/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ShoulderSurfing-NeoForge-1.21.1-4.22.12.jar",
       "sha1": "fea605988303ad4bdb395769001aab1a0b9b1b2f"
+    },
+    {
+      "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "sha1": "81748b4f728575d9bbab571ab07e6a24cf3ff126"
     },
     {
       "path": "mods/simplycataclysm-1.0.2\u002B1.21.1\u002Bneoforge.jar",
