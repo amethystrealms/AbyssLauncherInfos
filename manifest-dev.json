@@ -1,6 +1,6 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
@@ -523,6 +523,11 @@
       "path": "mods/figura-0.1.5\u002B1.21.1-neoforge-patched.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/figura-0.1.5\u002B1.21.1-neoforge-patched.jar",
       "sha1": "e633c65dd1bc1e6398737cdaabaf522154533728"
+    },
+    {
+      "path": "mods/figurity-2.0.1-1.21.1-neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/figurity-2.0.1-1.21.1-neoforge.jar",
+      "sha1": "80b0dec02f4feeaf422f424bb3057a07954e7284"
     },
     {
       "path": "mods/flickerfix-1.21.1-6.1.0.jar",
