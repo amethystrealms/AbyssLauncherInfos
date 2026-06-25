@@ -1,11 +1,14 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/abyssbackpacks-0.0.6.jar",
+    "mods/abyssveiladdon-0.0.1.jar",
+    "mods/veil_origins_mod-1.0.6.jar",
     "mods/abyssocult-0.0.1.jar",
     "mods/abysscore-0.2.0.jar",
     "mods/abysscore-0.1.8.jar",
@@ -37,9 +40,9 @@
   ],
   "files": [
     {
-      "path": "mods/abyssbackpacks-0.0.6.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbackpacks-0.0.6.jar",
-      "sha1": "17e072630a3f50db459168b4a2e13bca3655f86c"
+      "path": "mods/abyssbackpacks-0.0.7.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssbackpacks-0.0.7.jar",
+      "sha1": "46d6654cad03535f6cc8c37b83092436d1851faf"
     },
     {
       "path": "mods/abyssbubbles-0.0.3.jar",
@@ -62,6 +65,11 @@
       "sha1": "815373bb3cd6d67352774529c752f7d41b14a517"
     },
     {
+      "path": "mods/abyssorigins-0.0.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssorigins-0.0.1.jar",
+      "sha1": "24ac9f187b4611e2b55fdca9886941c67d48ff1b"
+    },
+    {
       "path": "mods/abyssstatus-0.0.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abyssstatus-0.0.2.jar",
       "sha1": "b394aefbbca93519030315ad694868516cb9ead8"
@@ -70,11 +78,6 @@
       "path": "mods/abysstp-0.0.4.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abysstp-0.0.4.jar",
       "sha1": "7078a36f666cc6a586b1fd2e8eee381e7d1f820a"
-    },
-    {
-      "path": "mods/abyssveiladdon-0.0.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abyssveiladdon-0.0.1.jar",
-      "sha1": "5bbba78685eec5c0e35508a9f2d99972befac351"
     },
     {
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -902,6 +905,11 @@
       "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
     },
     {
+      "path": "mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "sha1": "bf38fe686628eca79cc1b33c6e60a1eb765c6b39"
+    },
+    {
       "path": "mods/overloadedarmorbar-neoforge-1.21-2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/overloadedarmorbar-neoforge-1.21-2.jar",
       "sha1": "250b3f1a34bcaee383545761f102834475e86819"
@@ -1175,11 +1183,6 @@
       "path": "mods/Twigs-1.21.1-3.1.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Twigs-1.21.1-3.1.2.jar",
       "sha1": "528c54b099afc36ae50c408ce9bfb78a28bdea8b"
-    },
-    {
-      "path": "mods/veil_origins_mod-1.0.6.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/veil_origins_mod-1.0.6.jar",
-      "sha1": "af80ec644de1a0e4bbdbe5b8cdedb3e3313f9b5a"
     },
     {
       "path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
