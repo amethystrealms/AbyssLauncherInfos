@@ -1,11 +1,12 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
     "mods/abyssbackpacks-0.0.6.jar",
     "mods/abyssveiladdon-0.0.1.jar",
     "mods/veil_origins_mod-1.0.6.jar",
@@ -81,7 +82,7 @@
     },
     {
       "path": "mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/accessories-neoforge-1.1.0-beta.53\u002B1.21.1.jar",
       "sha1": "77d75c2e13cfdf56a45cdd29806c1c97c3d250fc"
     },
     {
@@ -926,7 +927,7 @@
     },
     {
       "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/owo-lib-neoforge-0.12.15.5-beta.1\u002B1.21.jar",
       "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
     },
     {
@@ -990,9 +991,14 @@
       "sha1": "a8d9ccce4f1c893fa61d4984ccf09620924d074e"
     },
     {
-      "path": "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
-      "sha1": "bd8ac0c82a04179c649f40b3333ff0648f444086"
+      "path": "mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "sha1": "ed2973c6952caa3173259314276b5b9d72880494"
+    },
+    {
+      "path": "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "sha1": "6f7e53f39eb477d7cee8e21af215cd3db698deda"
     },
     {
       "path": "mods/reeses-sodium-options-neoforge-1.8.3\u002Bmc1.21.4.jar",
