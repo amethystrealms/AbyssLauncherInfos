@@ -1,11 +1,12 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/abyssorigins-0.0.2.jar",
     "mods/abyssorigins-0.0.1.jar",
     "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
     "mods/abyssbackpacks-0.0.6.jar",
@@ -67,9 +68,9 @@
       "sha1": "815373bb3cd6d67352774529c752f7d41b14a517"
     },
     {
-      "path": "mods/abyssorigins-0.0.2.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/abyssorigins-0.0.2.jar",
-      "sha1": "a2936a7d70da645b76f0661b6ab32e443c65f1b6"
+      "path": "mods/abyssorigins-0.0.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssorigins-0.0.3.jar",
+      "sha1": "252ecbc049ed29514b75d48aa4f391ae91f4932d"
     },
     {
       "path": "mods/abyssstatus-0.0.2.jar",
