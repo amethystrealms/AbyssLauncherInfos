@@ -1,12 +1,13 @@
 {
   "name": "DevAmethyst",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
     "mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
+    "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
     "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
     "mods/fdbosses-3.1.0.3-1.21.1.jar",
     "mods/fdlib-1.0.9-1.21.1.jar",
@@ -227,11 +228,6 @@
       "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "sha1": "a0dec78a9c1bb7e0167e5326aaf3c58a94f3aa86"
-    },
-    {
-      "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
-      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
     },
     {
       "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
