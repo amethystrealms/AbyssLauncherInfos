@@ -6,6 +6,7 @@
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
     "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
     "mods/fdbosses-3.1.0.3-1.21.1.jar",
     "mods/fdlib-1.0.9-1.21.1.jar",
@@ -1036,11 +1037,6 @@
       "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/simplehats-neoforge-1.21.1-0.4.0.jar",
       "sha1": "81748b4f728575d9bbab571ab07e6a24cf3ff126"
-    },
-    {
-      "path": "mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
-      "sha1": "a2aa0f82ae3a9be2f43a4d47b3cb2201dd4e1469"
     },
     {
       "path": "mods/simplymore-forge-1.2.3.jar",
