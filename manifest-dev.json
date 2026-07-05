@@ -1,11 +1,16 @@
 {
   "name": "DevAmethyst",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
+    "mods/fdbosses-3.1.0.3-1.21.1.jar",
+    "mods/fdlib-1.0.9-1.21.1.jar",
+    "mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
+    "mods/mowzies_cataclysm-1.2.2.jar",
     "mods/abyssorigins-0.0.2.jar",
     "mods/abyssorigins-0.0.1.jar",
     "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
@@ -258,11 +263,6 @@
       "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
     },
     {
-      "path": "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/cinematiccataclysm-1.0.1-1.21.1.jar",
-      "sha1": "5f9db3880861bbda3d22c98d130fad24924c2bac"
-    },
-    {
       "path": "mods/citadel-1.21.1-2.7.6.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/citadel-1.21.1-2.7.6.jar",
       "sha1": "e0392370117ec16a721f8d65728944398de77607"
@@ -508,16 +508,6 @@
       "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
     },
     {
-      "path": "mods/fdbosses-3.1.0.3-1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/fdbosses-3.1.0.3-1.21.1.jar",
-      "sha1": "3f4f903838cc2080ffd6b3a4baebc5c172f585dd"
-    },
-    {
-      "path": "mods/fdlib-1.0.9-1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/fdlib-1.0.9-1.21.1.jar",
-      "sha1": "03a171d170b22a04e67d2cc7894ddddd8489a295"
-    },
-    {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
@@ -738,11 +728,6 @@
       "sha1": "a8acaf64fb3991526bfe7456189ccde247334265"
     },
     {
-      "path": "mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
-      "sha1": "0bbc8a16e061c8d186186f387f0f159f4c13bf63"
-    },
-    {
       "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
@@ -881,11 +866,6 @@
       "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/mowziesmobs-1.21.1-1.8.2.jar",
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
-    },
-    {
-      "path": "mods/mowzies_cataclysm-1.2.2.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/mowzies_cataclysm-1.2.2.jar",
-      "sha1": "0dff3e849155ca343d1a500f5b9ca2b54ffa692d"
     },
     {
       "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
