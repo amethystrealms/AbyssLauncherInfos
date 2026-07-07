@@ -1,13 +1,13 @@
 {
   "name": "DevAmethyst",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
-    "mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
-    "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+    "mods/Axiom-5.3.0-for-MC1.21.1.jar",
+    "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
     "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
     "mods/fdbosses-3.1.0.3-1.21.1.jar",
     "mods/fdlib-1.0.9-1.21.1.jar",
@@ -49,6 +49,11 @@
     }
   ],
   "files": [
+    {
+      "path": "mods/abyssal_decor_1.21.1_0.10.0_Neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/abyssal_decor_1.21.1_0.10.0_Neoforge.jar",
+      "sha1": "64e4761d88f1ce40999ebd35c718f89ddbc655ca"
+    },
     {
       "path": "mods/abyssbackpacks-0.0.7.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/abyssbackpacks-0.0.7.jar",
@@ -200,9 +205,9 @@
       "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba"
     },
     {
-      "path": "mods/Axiom-5.3.0-for-MC1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/Axiom-5.3.0-for-MC1.21.1.jar",
-      "sha1": "6e344402f2570d0d4e5775ecc981ee9edd2d6a23"
+      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca"
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
@@ -228,6 +233,11 @@
       "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
       "sha1": "a0dec78a9c1bb7e0167e5326aaf3c58a94f3aa86"
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
     },
     {
       "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
@@ -258,6 +268,11 @@
       "path": "mods/Chunky-NeoForge-1.4.23.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/Chunky-NeoForge-1.4.23.jar",
       "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
+    },
+    {
+      "path": "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/cinematiccataclysm-1.0.1-1.21.1.jar",
+      "sha1": "5f9db3880861bbda3d22c98d130fad24924c2bac"
     },
     {
       "path": "mods/citadel-1.21.1-2.7.6.jar",
@@ -475,6 +490,11 @@
       "sha1": "ccfdd25a38f31544a8e5859c3a015dd8a9acf4d5"
     },
     {
+      "path": "mods/fairylights-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fairylights-neoforge-1.21.1-1.2.2.jar",
+      "sha1": "510adf3d1e1bf1dcc81ad6d4041e34bb7298c6dd"
+    },
+    {
       "path": "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
       "sha1": "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
@@ -505,14 +525,24 @@
       "sha1": "664e62684311f727f1fac18f0de28e5317874b7e"
     },
     {
+      "path": "mods/fdbosses-3.1.0.3-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fdbosses-3.1.0.3-1.21.1.jar",
+      "sha1": "3f4f903838cc2080ffd6b3a4baebc5c172f585dd"
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/fdlib-1.0.9-1.21.1.jar",
+      "sha1": "03a171d170b22a04e67d2cc7894ddddd8489a295"
+    },
+    {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
     },
     {
-      "path": "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
-      "sha1": "e633c65dd1bc1e6398737cdaabaf522154533728"
+      "path": "mods/figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "sha1": "8405ee52683307711961db8623201240f240f82e"
     },
     {
       "path": "mods/figurity-2.0.1-1.21.1-neoforge.jar",
@@ -578,6 +608,11 @@
       "path": "mods/gpumemleakfix-1.21-1.8.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/gpumemleakfix-1.21-1.8.jar",
       "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208"
+    },
+    {
+      "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "sha1": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
     },
     {
       "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
@@ -725,6 +760,11 @@
       "sha1": "a8acaf64fb3991526bfe7456189ccde247334265"
     },
     {
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
+      "sha1": "0bbc8a16e061c8d186186f387f0f159f4c13bf63"
+    },
+    {
       "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
@@ -863,6 +903,11 @@
       "path": "mods/mowziesmobs-1.21.1-1.8.2.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/mowziesmobs-1.21.1-1.8.2.jar",
       "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c"
+    },
+    {
+      "path": "mods/mowzies_cataclysm-1.2.2.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/mowzies_cataclysm-1.2.2.jar",
+      "sha1": "0dff3e849155ca343d1a500f5b9ca2b54ffa692d"
     },
     {
       "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
@@ -1033,6 +1078,11 @@
       "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
       "url": "https://dev.cdn.amethystrealms.net/mods/simplehats-neoforge-1.21.1-0.4.0.jar",
       "sha1": "81748b4f728575d9bbab571ab07e6a24cf3ff126"
+    },
+    {
+      "path": "mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/simplycataclysm-1.0.2+1.21.1+neoforge.jar",
+      "sha1": "a2aa0f82ae3a9be2f43a4d47b3cb2201dd4e1469"
     },
     {
       "path": "mods/simplymore-forge-1.2.3.jar",
