@@ -1,11 +1,12 @@
 {
   "name": "DevAmethyst",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.230",
   "launchVersion": "neoforge-21.1.230",
   "delete": [
+    "mods/Axiom-5.4.2-for-MC1.21.1.jar",
     "mods/Axiom-5.3.0-for-MC1.21.1.jar",
     "mods/figura-0.1.5+1.21.1-neoforge-patched.jar",
     "mods/cinematiccataclysm-1.0.1-1.21.1.jar",
@@ -205,9 +206,9 @@
       "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba"
     },
     {
-      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
-      "url": "https://dev.cdn.amethystrealms.net/mods/Axiom-5.4.2-for-MC1.21.1.jar",
-      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca"
+      "path": "mods/Axiom-5.3.0-for-MC1.21.1.jar",
+      "url": "https://dev.cdn.amethystrealms.net/mods/Axiom-5.3.0-for-MC1.21.1.jar",
+      "sha1": "6e344402f2570d0d4e5775ecc981ee9edd2d6a23"
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
